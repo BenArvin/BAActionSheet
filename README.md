@@ -2,6 +2,8 @@
 
 An action sheet made by pure JS code for ReactNative project.
 
+![img](https://github.com/BenArvin/BAActionSheet/blob/master/preview.gif)
+
 ## How to use
 
 - 1. add .js file into your project
